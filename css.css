@@ -19,3 +19,13 @@ div ol{
 	padding:25px;
 	margin: 25px;
 }
+img{
+	float: right;
+	border:1px dotted black;
+	margin: 0px 0px 15px 20px;
+	height:400px;
+	width: 500px;
+}
+#References{
+	
+}
